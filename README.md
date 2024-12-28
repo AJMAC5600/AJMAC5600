@@ -1,4 +1,8 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=YNByNLRgZrd3cpOQd80X-F9SX2wzCgEhwSOkVpBHkpY)
+<img 
+  src="https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=YNByNLRgZrd3cpOQd80X-F9SX2wzCgEhwSOkVpBHkpY" 
+  alt="MasterHead" 
+  style="width:800px; height:200px; border:2px solid black; margin:10px;" 
+/>
 
 
 
