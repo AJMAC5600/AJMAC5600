@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)
 
 <img
   align="right"
