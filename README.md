@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=YNByNLRgZrd3cpOQd80X-F9SX2wzCgEhwSOkVpBHkpY)
 
 <img
   align="right"
