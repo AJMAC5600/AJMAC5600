@@ -1,4 +1,4 @@
-[![MasterHead]([https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://ajmac5600.github.io/react-portfolio/](https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=YNByNLRgZrd3cpOQd80X-F9SX2wzCgEhwSOkVpBHkpY))
+[![MasterHead]([https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://ajmac5600.github.io/react-portfolio/]
 
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
